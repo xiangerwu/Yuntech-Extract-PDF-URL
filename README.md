@@ -1,13 +1,16 @@
 # Yuntech-Extract-PDF-URL
 教授在 E-Class 上提供 PPT 但沒開下載選項 所以弄了個套件自己抓檔案
 ---
+發布於 [greasyfork](https://greasyfork.org/zh-TW/scripts/528228-yuntech-extract-pdf-url/)
+
 這是用 GPT 產生的腳本，起因是教授在 EClass 上提供 PPT 但沒開下載選項
 所以弄了個套件自己抓檔案
 
 
 這個油猴腳本的主要功能描述如下：
 功能簡介
-Yuntech PDF Downloader 是一款適用於 雲林科技大學 eClass 平台的 油猴 (Tampermonkey) 擴充腳本，它能夠 自動檢測 PDF 預覽頁面，並在 右下角生成可下載按鈕，讓使用者輕鬆取得 PDF 檔案。
+Yuntech PDF Downloader 是一款適用於 雲林科技大學 eClass 平台的 油猴 (Tampermonkey) 擴充腳本，
+它能夠 自動檢測 PDF 預覽頁面，並在 右下角生成可下載按鈕，讓使用者輕鬆取得 PDF 檔案。
 功能特色
 
 ✅ 自動監聽 PDF Viewer：當使用者點擊課程內的 PDF 預覽按鈕時，腳本會自動偵測是否開啟 PDF Viewer。
